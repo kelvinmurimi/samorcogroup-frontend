@@ -12,7 +12,7 @@
 
           <div class="hero-content">
 
-            <p class="section-subtitle">Samorco Group</p>
+            <p class="section-subtitle"></p>
 
             <h1 class="h1 hero-title">Make an Impression & Drive More Downloads vry Fast</h1>
 
