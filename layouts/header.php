@@ -48,11 +48,6 @@ require('includes/variables.php');
           <li>
             <a href="#home" class="navbar-link active" data-nav-link>Home</a>
           </li>
-
-          <li>
-            <a href="#features" class="navbar-link" data-nav-link>Features</a>
-          </li>
-
           <li>
             <a href="#about" class="navbar-link" data-nav-link>About</a>
           </li>
@@ -68,11 +63,6 @@ require('includes/variables.php');
           <li>
             <a href="#" class="navbar-link" data-nav-link>Contact</a>
           </li>
-
-
-         
-         
-
           <li>
             <a href="#" class="btn btn-primary">Get Started</a>
           </li>
